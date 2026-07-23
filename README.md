@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHD SHARIK</h1><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+👋I'm+Mohd+Sharik;Frontend+Developer;MERN+Stack+Developer;Open+to+Internships+%26+Entry-Level+Opportunities;Building+Modern+Web+Applications">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi+I'm+Mohd+Sharik;Frontend+Developer;MERN+Stack+Developer;Open+to+Internships+%26+Entry-Level+Opportunities;Building+Modern+Web+Applications">
 </p>👨‍💻 About Me
 
 - 🎓 B.Tech (CSE) Student
